@@ -5,7 +5,7 @@ A Balatro mod that replaces the texture of the "Aura" spectral card to famous St
 Code by SDM_0.<br/>
 Art by RattlingSnow353.
 
-Shoutout to Aure for his amazing work and support on the community, you deserve it!
+Shoutout to Aure for his amazing work and support to the Balatro modding community, you deserve it!
 
 ## Installation
 - Requires [Steamodded](https://github.com/Steamopollys/Steamodded/) v1.0.0 or above (An installation guide is available there)
