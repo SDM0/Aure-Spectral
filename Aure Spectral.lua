@@ -2,7 +2,7 @@
 --- MOD_NAME: Aure Spectral
 --- MOD_ID: aure_spectral
 --- MOD_AUTHOR: [SDM_0, RattlingSnow353]
---- MOD_DESCRIPTION: Replaces the texture of the "Aura" spectral card to famous Steamodded developer "Aure". Code by SDM_0. Art by RattlingSnow353.
+--- MOD_DESCRIPTION: Replaces the texture and name of the "Aura" spectral card to famous Steamodded developer "Aure". Code by SDM_0. Art by RattlingSnow353.
 --- VERSION: 1.0.0
 --- LOADER_VERSION_GEQ: 1.0.0 
 
