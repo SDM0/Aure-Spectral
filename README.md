@@ -2,7 +2,7 @@
 
 A Balatro mod that replaces the texture of the "Aura" spectral card to famous Steamodded developer "Aure".
 
-Code by SDM_0.
+Code by SDM_0.<br/>
 Art by RattlingSnow353.
 
 Shoutout to Aure for his amazing work and support on the community, you deserve it!
