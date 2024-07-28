@@ -1,6 +1,6 @@
 # Aure Spectral
 
-A Balatro mod that replaces the texture of the "Aura" spectral card to famous Steamodded developer "Aure".
+A Balatro mod that replaces the texture and name of the "Aura" spectral card to famous Steamodded developer "Aure".
 
 Code by SDM_0.<br/>
 Art by RattlingSnow353.
